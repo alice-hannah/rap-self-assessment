@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "locale": "en_GB",
+  "platform": "4.4.2",
+  "metadata": {
+    "appmode": "quarto-shiny",
+    "primary_rmd": "quarto-docs/_about-this-tool.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.5.57",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "data-raw/criteria.R": {
+      "checksum": "5ba2342ef0da607b7ce88e5e09000a22"
+    },
+    "data-raw/levels.R": {
+      "checksum": "8a31b2565afd2b1b7cfaad3e83a5bb82"
+    },
+    "data-raw/options.R": {
+      "checksum": "2c40979fbbb7637fc39ac3b39d96c7d5"
+    },
+    "data/criteria.rds": {
+      "checksum": "5fd4b822da2f7123732c20c96a947368"
+    },
+    "data/levels.rds": {
+      "checksum": "ce95153e9728855212afec91dcb27c2e"
+    },
+    "data/options.rds": {
+      "checksum": "a1f84f583a62e0b3943558249a5dad9b"
+    },
+    "deploy.R": {
+      "checksum": "0f8f9a398be9c63165d0de843fbabb37"
+    },
+    "images/SG-logo.jpg": {
+      "checksum": "556226d09fbfd01b5fccb7a321519b0b"
+    },
+    "LICENCE.md": {
+      "checksum": "4a3336d0a31b8ff92ed111693b309b65"
+    },
+    "modules/details.R": {
+      "checksum": "6680b2f4aa24cbaab73786aacbe3779f"
+    },
+    "modules/download_csv.R": {
+      "checksum": "40d58202b0fdf70dfbd87768d96dbe2b"
+    },
+    "modules/download_report.R": {
+      "checksum": "4da8c0f59c6a61e4db1a58e1691edd03"
+    },
+    "modules/form.R": {
+      "checksum": "3d92ceb0e5141fbbccf67a6315e02b04"
+    },
+    "modules/level_label.R": {
+      "checksum": "ad0ae9e266044fdca61c1174a12e7b7c"
+    },
+    "modules/metadata.R": {
+      "checksum": "135cc5543ceffddf83a84dd78aa475f8"
+    },
+    "partials/title-block.html": {
+      "checksum": "5a0488a4ba5800db272fc4f14396361e"
+    },
+    "quarto-docs/_about-this-tool.qmd": {
+      "checksum": "f680ce5230df95e8c3ad3b7c3539fc34"
+    },
+    "quarto-docs/_criteria-form.qmd": {
+      "checksum": "5a22336919c9ad63b5584eeb90201836"
+    },
+    "quarto-docs/_further-support.qmd": {
+      "checksum": "9c8a4861c8cb3acdcaec8470f3d7d0d6"
+    },
+    "quarto-docs/_level-form.qmd": {
+      "checksum": "f3cc3045b46961461bcddeb2d4c401f3"
+    },
+    "quarto-docs/help/_id_0_1.qmd": {
+      "checksum": "f00a2f03d497d25b232cdd411837601f"
+    },
+    "quarto-docs/help/_id_0_2.qmd": {
+      "checksum": "a07335fee26f95f61746ed13f3f5d8ed"
+    },
+    "quarto-docs/help/_id_0_3.qmd": {
+      "checksum": "217835a7c0b0871217cf6dcb1fae01fb"
+    },
+    "quarto-docs/help/_id_0_4.qmd": {
+      "checksum": "6ebe28bf98c55c1ac5af14a89860aeca"
+    },
+    "quarto-docs/help/_id_1_1.qmd": {
+      "checksum": "fd3e2c0aa588d682d42cf4960f00f2f5"
+    },
+    "quarto-docs/help/_id_1_2.qmd": {
+      "checksum": "76824b6fdcdd9af965385f120415fc76"
+    },
+    "quarto-docs/help/_id_1_3.qmd": {
+      "checksum": "5ffe5de3a422e446fb09bf40cd2139c4"
+    },
+    "quarto-docs/help/_id_1_4.qmd": {
+      "checksum": "8e0d4dd4dcf9bbe9990acb3644c04fd3"
+    },
+    "quarto-docs/help/_id_1_5.qmd": {
+      "checksum": "94b456218103a50cf0515f9bf962a450"
+    },
+    "quarto-docs/help/_id_1_6.qmd": {
+      "checksum": "5bf9ed278a900b3b8e4f1cc04ddef821"
+    },
+    "quarto-docs/help/_id_1_7.qmd": {
+      "checksum": "bfb4bb1ad4e34d3ff763a72d567e590a"
+    },
+    "quarto-docs/help/_id_1_8.qmd": {
+      "checksum": "2946aacec74043d481dc3f8aaaee968f"
+    },
+    "quarto-docs/help/_id_2_1.qmd": {
+      "checksum": "0bccb5871521f1b5b6f5e13514d02437"
+    },
+    "quarto-docs/help/_id_2_2.qmd": {
+      "checksum": "dab5f21a0971cb8e1e8ab7b08c24acd1"
+    },
+    "quarto-docs/help/_id_2_3.qmd": {
+      "checksum": "4bbc42f14d49f9d5dd9e2335d0264aa5"
+    },
+    "quarto-docs/help/_id_2_4.qmd": {
+      "checksum": "19bdbf8407a422ef7e071d39772f7127"
+    },
+    "quarto-docs/help/_id_3_1.qmd": {
+      "checksum": "95bb2ff57331a2f89527a8df582a1b64"
+    },
+    "quarto-docs/help/_id_3_2.qmd": {
+      "checksum": "24e0c1cb446452939b9da753ff689d41"
+    },
+    "quarto-docs/help/_id_3_3.qmd": {
+      "checksum": "4c189e8d1d43e1d5b0f7fe1090c61d4b"
+    },
+    "quarto-docs/help/_id_3_4.qmd": {
+      "checksum": "bab009c7a727c4eb0ab8bfe447fdd09a"
+    },
+    "quarto-docs/help/_id_3_5.qmd": {
+      "checksum": "682b9829c123cc9946d556979a0819d8"
+    },
+    "quarto-docs/output/_criteria-report.qmd": {
+      "checksum": "60627d1448f8600f52094439c561b7b3"
+    },
+    "quarto-docs/output/_level-progress.qmd": {
+      "checksum": "2d5d984ad44c7d155847ef63344b4bf3"
+    },
+    "quarto-docs/output/_report.qmd": {
+      "checksum": "cd8ac4ff60af6eb3716aa155b12ae838"
+    },
+    "README.md": {
+      "checksum": "c3dbd732239ab8e4a4d7db0555574493"
+    },
+    "self-assess.qmd": {
+      "checksum": "734744e398a000b6d4dfb60d69a51b6c"
+    },
+    "styles.scss": {
+      "checksum": "8e46499b3df98c16b635d935d5338aa7"
+    }
+  },
+  "users": null
+}
