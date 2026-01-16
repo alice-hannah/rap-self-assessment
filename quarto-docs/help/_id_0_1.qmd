@@ -2,6 +2,6 @@
 
 One of the basic principles of RAP is to use open-source software instead of proprietary software. In the Scottish Government, R is the most widely used and supported open-source software.
 
-Information on [how to install R, RStudio and R packages within SCOTS](https://erdm.scotland.gov.uk:8443/documents/A42404229/details) is available on eRDM.
+Information on [how to install R, RStudio and R packages within SCOTS](https://erdm.scotland.gov.uk:8443/documents/A42404229/details) is available on eRDM. A list of [recommended R packages](https://scotsconnect.sharepoint.com/sites/StatisticsGroup-Org-SG/SitePages/R-Resources.aspx#recommended-r-packages) is also available to promote consistency and clarity across projects and teams.
 
 Further support and guidance can be sought in the [R Users community on Viva Engage](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI2MzQ4MzE2NjczIn0).
